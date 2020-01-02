@@ -1,0 +1,75 @@
+{
+  "otopark": [
+    {
+      "name": "Demirbey Otopark",
+      "latitute": 38.6740488,
+      "longitude": 39.209936,
+      "capacity": 40,
+      "status": 25
+    },
+    {
+      "name": "Ertan Yediemin Otoparkı",
+      "latitude": 38.6617885,
+      "longitude": 39.2159702,
+      "capacity": 50,
+      "status": 34
+    },
+    {
+      "name": "Tuncay Yediemin Otoparkı",
+      "latitude": 38.6812884,
+      "longitude": 39.2219526,
+      "capacity": 45,
+      "status": 45
+    },
+    {
+      "name": "En Has Otopark",
+      "latitude": 38.671053,
+      "longitude": 39.2181701,
+      "capacity": 95,
+      "status": 86
+    },
+    {
+      "name": "İbrahim Ethem Otoparkı",
+      "latitude": 38.677916,
+      "longitude": 39.2263361,
+      "capacity": 30,
+      "status": 17
+    },
+    {
+      "name": "Olgunlar Otopark",
+      "latitude": 38.666900,
+      "longitude": 39.209515,
+      "capacity": 65,
+      "status": 65
+    },
+    {
+      "name": "Yasemin Otopark",
+      "latitude": 38.660036,
+      "longitude": 39.220585,
+      "capacity": 25,
+      "status": 12
+    },
+    {
+      "name": "Kültür Otopark",
+      "latitude": 38.672858,
+      "longitude": 39.205401,
+      "capacity": 87,
+      "status": 77
+    },
+    {
+      "name": "Üniversite Otopark",
+      "latitude": 38.679618,
+      "longitude": 39.209387,
+      "capacity": 100,
+      "status": 98
+    },
+    {
+      "name": "Harput Otopark",
+      "latitude": 38.705562,
+      "longitude": 39.255542,
+      "capacity": 125,
+      "status": 85
+    }
+  ]
+}
+
